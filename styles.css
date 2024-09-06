@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ukraine War Awareness</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Ukraine War Awareness</h1>
+    </header>
+
+    <nav class="sticky-nav">
+        <a href="#overview">Overview</a>
+        <a href="#causes">Causes</a>
+        <a href="#impact">Impact</a>
+        <a href="#gallery">Gallery</a>
+    </nav>
+
+    <section class="blue-section">
+        <h2>WE STAND WITH</h2>
+    </section>
+
+    <section class="yellow-section">
+        <h2>UKRAINE </h2>
+    </section>
+
+    <main>
+        <section id="overview" class="content-section">
+            <h2>Overview</h2>
+            <p>The ongoing conflict in Ukraine began in 2014 and has escalated into a full-scale war. It involves complex geopolitical dynamics and has caused immense human suffering.</p>
+        </section>
+
+        <section id="causes" class="content-section">
+            <h2>Causes of the Conflict</h2>
+            <p>The roots of the conflict are deep, involving historical tensions, territorial disputes, and the struggle between Eastern and Western influences.</p>
+        </section>
+
+        <section id="impact" class="content-section">
+            <h2>Impact on Civilians</h2>
+            <p>The war has displaced millions, caused countless casualties, and created a humanitarian crisis. Efforts are ongoing to provide relief and seek a resolution.</p>
+        </section>
+
+        <section id="gallery" class="content-section">
+            <h2>Gallery</h2>
+            <div class="gallery-grid">
+                <img src="https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7795f1a7-cea1-43cb-b0d5-c5852b24ea91.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1" alt="Image 1">
+                <img src="https://pic.sport.ua/images/news/0/14/81/orig_576246.jpg" alt="Image 2">
+                <img src="https://www.bloomberg.com/graphics/2022-ukraine-culture-russia-war-map-building-preservation/img/2022-ukraine-culture-russia-war-map-building-preservation-facebook.png?v=2022-11-03" alt="Image 3">
+                <img src="https://static.politico.com/d5/18/1bb155734d619538bb69e6fabeb2/https-delivery-gettyimages.com/downloads/1243729890" alt="Image 4">
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Ukraine War Awareness. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
